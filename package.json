@@ -1,0 +1,20 @@
+{
+  "name": "docker-with-npm-cache",
+  "version": "0.0.1",
+  "description": "Container experiments on a Saturday morning in late-Feb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "Michael Gale",
+    "email": "michael@michaelgale.dev",
+    "url": "https://michaelgale.dev"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "node-fetch": "^2.6.1"
+  }
+}
